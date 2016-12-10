@@ -18,4 +18,4 @@ Topp (Pongsakorn Tikapichart)
 
 ## Note
 
-[`fresh_tomatoes.py`]('https://github.com/adarsh0806/ud036_StarterCode') is provided by [Adarsh Nair]('https://github.com/adarsh0806')
+[`fresh_tomatoes.py`](https://github.com/adarsh0806/ud036_StarterCode) is provided by [Adarsh Nair](https://github.com/adarsh0806)
