@@ -1,5 +1,9 @@
 import webbrowser
+    """project 1: Movie trailer website
 
+    Description: this file creates the Movie class in order to allow the instance of this class to be used in entertainment_center.py
+
+    """
 class Movie():
     """A Movie class contains certain pieces of information about a movie
 
